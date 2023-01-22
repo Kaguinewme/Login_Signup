@@ -1,0 +1,34 @@
+{
+    "User": [
+        {
+            "username": "kagui",
+            "password": "Kagui@12",
+            "Profile": {
+                "Bio": "uytrewq",
+                "Dob": "uytrsa",
+                "Gender": "ytrsa",
+                "Hobbies": "ytrw"
+            }
+        },
+        {
+            "username": "kahuile",
+            "password": "Kahuile14!",
+            "Profile": {
+                "Bio": "a",
+                "Dob": "",
+                "Gender": "a",
+                "Hobbies": "a"
+            }
+        },
+        {
+            "username": "hejua",
+            "password": "Hejuale14!",
+            "Profile": {
+                "Bio": "a",
+                "Dob": "a",
+                "Gender": "a",
+                "Hobbies": "a"
+            }
+        }
+    ]
+}
